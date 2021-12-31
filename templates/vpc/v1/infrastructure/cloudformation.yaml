@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: '2010-09-09'
-Description: VPC, PuclicSubnet, PrivateSubnet, IGW
+Description: VPC, PuclicSubnet, PrivateSubnet
 
 Mappings:
   SubnetConfig:
